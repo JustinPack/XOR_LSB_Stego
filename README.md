@@ -34,11 +34,13 @@ python xor_lsb_stego.py
 *Replace `[options]` with the relevant options for your task (embedding or extracting data).*
 
 ### Example Usage
-- **Embedding Data**: 
-  <img src="Examples/embedding_example.png" width="300" />
 
-- **Extracting Data**: 
-  <img src="Examples/extraction_example.png" width="300" />
+#### Embedding Data
+<img src="Examples/embedding_example.png" width="300" />
+
+#### Extracting Data
+<img src="Examples/extraction_example.png" width="300" />
+
 
 ## Methodology
 
