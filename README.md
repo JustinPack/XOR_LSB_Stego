@@ -35,9 +35,10 @@ python xor_lsb_stego.py
 
 ### Example Usage
 - **Embedding Data**: 
-  ![Embedding Data Example](Examples/embedding_example.png)
+  <img src="Examples/embedding_example.png" width="300" />
+
 - **Extracting Data**: 
-  ![Extracting Data Example](Examples/extracting_example.png)
+  <img src="Examples/extraction_example.png" width="300" />
 
 ## Methodology
 
@@ -56,4 +57,4 @@ Feel free to contribute to this project by submitting pull requests or opening i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-Huge shout out to @tapatiohaxx for the initial UI and the inspiration to complete this script, as well as a special thanks to the authors of the paper for their groundbreaking work in the field of image steganography.
+Huge shout out to [@tapatiohaxx](https://github.com/tapatiohaxx) for the initial UI and the inspiration to complete this script, as well as a special thanks to the authors of the paper for their groundbreaking work in the field of image steganography.
