@@ -27,7 +27,7 @@ XOR_LSB_Stego is a Python-based implementation of a novel image steganography te
 ## Usage
 
 ### Basic Command
-To use the XOR_LSB_Stego tool, run the script with the necessary arguments:
+To use the XOR_LSB_Stego tool, just run the script:
 ```
 python xor_lsb_stego.py
 ```
