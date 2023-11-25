@@ -31,7 +31,6 @@ To use the XOR_LSB_Stego tool, just run the script:
 ```
 python xor_lsb_stego.py
 ```
-*Replace `[options]` with the relevant options for your task (embedding or extracting data).*
 
 ### Example Usage
 
